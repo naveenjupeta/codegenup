@@ -1,4 +1,0 @@
- 2. The `coins_2` function also takes an integer `num_coins` as input and returns a set of unique amounts of change possible from combinations of `num_coins` dimes and pennies.
- 3. Both functions use a recursive function `_coins` and `_coins_2` to generate all possible combinations of dimes and pennies, and then add them to the `combos` set.
- 4. The `coins` function uses a list `coins` to store the values of dimes and pennies, and the `_coins` function takes the number of coins left `coins_left`, the set of combinations `combos`, and the total value of the current combination `total` as arguments.
- 5. The `_coins` function checks if `coins_left` is 0, in which case it adds the current combination's value `total` to the set `combos` and returns.

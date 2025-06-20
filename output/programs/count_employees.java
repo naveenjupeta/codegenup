@@ -1,4 +1,0 @@
-  1. Identify the classes and methods: In the given code, there is a class called `Node` and a method called `count_employees`.
-  2. Convert the class to a Java class: In Java, classes are defined using the `class` keyword, so the Python class `Node` can be converted to a Java class by adding the `class` keyword.
-  3. Convert the method to a Java method: In Java, methods are defined within the class using the `public` or `private` keywords, so the Python method `count_employees` can be converted to a Java method by adding the `public` or `private` keyword.
-  4. Convert the syntax: Python uses the `def` keyword to define a function, while Java uses the `public` or `private` keywords. The `if __name__ == '__main__'` statement can be ignored in Java.
